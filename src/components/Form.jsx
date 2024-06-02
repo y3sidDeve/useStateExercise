@@ -105,7 +105,6 @@ function Form() {
       [name]: value,
     }));
   };
-
   // Maneja el envío del formulario
   // Agrega el producto a la lista de productos
   // Limpia el formulario
